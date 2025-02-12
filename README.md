@@ -24,4 +24,4 @@ A simple, stylish calculator built using **HTML, CSS, and JavaScript**. This pro
 Feel free to fork this project and enhance it!  
 
 ---
-💡 *Made with ❤️ by [Your Name]*
+💡 *Made with ❤️ by Lakshya Agrawal
